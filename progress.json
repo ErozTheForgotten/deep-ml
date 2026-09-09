@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:09:19.014Z",
+  "generated_at": "2026-09-25T02:09:20.972Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -104,6 +104,71 @@
       "last_pushed_at": "2026-09-07T15:38:04.958Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-09T14:58:43.043Z",
+      "last_pushed_at": "2026-09-09T14:58:43.043Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:89": {
+      "kind": "problem",
+      "id": "89",
+      "title": "The Pattern Weaver's Code",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/89",
+      "path": "problems/0089-the-pattern-weaver-s-code",
+      "first_solved_at": "2026-09-09T15:20:00.666Z",
+      "last_pushed_at": "2026-09-09T15:20:00.666Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-09T15:47:29.824Z",
+      "last_pushed_at": "2026-09-09T15:47:29.824Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-09-09T15:55:49.745Z",
+      "last_pushed_at": "2026-09-09T15:55:49.745Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:222": {
+      "kind": "problem",
+      "id": "222",
+      "title": "LoRA: Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/222",
+      "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-09-09T17:47:30.796Z",
+      "last_pushed_at": "2026-09-09T17:47:30.796Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
