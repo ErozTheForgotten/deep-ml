@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:09:22.564Z",
+  "generated_at": "2026-09-25T02:09:24.184Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -182,6 +182,58 @@
       "last_pushed_at": "2026-09-14T15:54:55.979Z",
       "language": "python",
       "lines": 80
+    },
+    "problem:1216": {
+      "kind": "problem",
+      "id": "1216",
+      "title": "Binary Search for Value or Closest Index",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1216",
+      "path": "problems/1216-binary-search-for-value-or-closest-index",
+      "first_solved_at": "2026-09-15T15:17:05.106Z",
+      "last_pushed_at": "2026-09-15T15:17:05.106Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2026-09-15T15:41:08.461Z",
+      "last_pushed_at": "2026-09-15T15:41:08.461Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2026-09-15T16:09:10.710Z",
+      "last_pushed_at": "2026-09-15T16:09:10.710Z",
+      "language": "python",
+      "lines": 60
+    },
+    "problem:406": {
+      "kind": "problem",
+      "id": "406",
+      "title": "NoPE (No Positional Embedding) with iRoPE Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/406",
+      "path": "problems/0406-nope-no-positional-embedding-with-irope-attention",
+      "first_solved_at": "2026-09-15T17:44:49.861Z",
+      "last_pushed_at": "2026-09-15T17:44:49.861Z",
+      "language": "python",
+      "lines": 115
     }
   }
 }
